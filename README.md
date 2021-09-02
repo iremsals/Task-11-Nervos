@@ -25,7 +25,8 @@ https://explorer.nervos.org/aggron/address/ckt1qyq29qxrgzq8d6h77m4mn9rsgxvljqlzp
 
 7- The ABI for contract you made a call on (in text format).
 
-[
+####  "abi": 
+    [
     {
       "inputs": [
         {
@@ -52,7 +53,8 @@ https://explorer.nervos.org/aggron/address/ckt1qyq29qxrgzq8d6h77m4mn9rsgxvljqlzp
       "stateMutability": "view",
       "type": "function"
     }
-  ],
+    ],
+
   
   8- Your Tron address (in text format).
   
